@@ -24,3 +24,20 @@ button {
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    color: #5f9341;
+    margin: 5px;
+    
+}
+
+a {
+    color: #5f9341;
+
+}
