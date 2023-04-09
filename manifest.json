@@ -2,9 +2,10 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "Leads tracker",
+    "description": "The lead tracker chrome extension helps you stay organized by capturing and managing potential sales leads directly from your browser.",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "icon.png"
+        "default_icon": "download.png"
     },
     "permissions": [
         "tabs"
